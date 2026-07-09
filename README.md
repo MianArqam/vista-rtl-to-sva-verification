@@ -111,10 +111,9 @@ Optional: `vista_env/bin/python3 scripts/test_inference.py --base-only --model u
 - CUDA-capable GPU (recommended)
 - See `requirements.txt` for full dependency list
 
-## License
 
-[Add your license here]
 
 ## Author
 
-[Your name/contact information]
+Mian Arqam 
+muhamadarqam123@gmail.com
